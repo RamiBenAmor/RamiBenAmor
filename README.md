@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rami Ben Amor</h1>
-<h3 align="center">AI & Data Science Enthusiast | Final-Year Computer* Science Student From Tunisia</h3>
+<h3 align="center">AI & Data Science Enthusiast | Final-Year Computer Science Student From Tunisia</h3>
 
 - 🌱 I’m currently learning **AI**
 
