@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rami Ben Amor</h1>
-<h3 align="center">AI & Data Science Enthusiast | Final-Year Computer Science Student at National School of Computer Science (ENSI),Tunisia</h3>
+<h3 align="center">AI & Data Science Enthusiast | Final-Year Computer Science Student at 
+  <a href="https://www.ensi.rnu.tn/" target="_blank">National School of Computer Science (ENSI), Tunisia</a></h3>
 
 
 
