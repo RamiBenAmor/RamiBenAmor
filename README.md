@@ -10,7 +10,7 @@
 
 <h3 align="left">
   View my portfolio: 
-  <a href="[https://your-portfolio-website.com](https://ramibenamor.me/)" target="_blank">Portfolio Website</a>
+  <a href="https://ramibenamor.me/" target="_blank">Portfolio Website</a>
 </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
