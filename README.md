@@ -55,4 +55,6 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramibenamor&show_icons=true&locale=en" alt="ramibenamor"  /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramibenamor&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="ramibenamor's GitHub stats" />
+</p>
