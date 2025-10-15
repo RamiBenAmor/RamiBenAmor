@@ -3,10 +3,11 @@
   <a href="https://ensi.rnu.tn/" target="_blank">National School of Computer Science (ENSI), Tunisia</a></h3>
 
 
-
-<h3 align="left">Connect with me:<https://www.linkedin.com/in/rami-ben-amor-1b3375330//h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rami-ben-amor-1b3375330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rami-ben-amor-1b3375330/" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rami-ben-amor-1b3375330/" target="_blank">
+    <img src="LINKEDIN_ICON_URL" alt="LinkedIn" height="30" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">
