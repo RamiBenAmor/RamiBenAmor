@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <!-- Flask --> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="[https://flask.palletsprojects.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fflask&psig=AOvVaw3OcgEQYlGfkZNn2RP54qsb&ust=1760578762359000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCMC8r5OJpZADFQAAAAAdAAAAABAE)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <!-- NLTK --> <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://www.nltk.org/images/nltk.png" alt="nltk" width="40" height="40"/> </a> <!-- Pandas --> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
