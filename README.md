@@ -55,4 +55,4 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramibenamor&show_icons=true&locale=en" alt="ramibenamor" />alt="ramibenamor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramibenamor&show_icons=true&locale=en" alt="ramibenamor"  /></p>
